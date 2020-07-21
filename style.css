@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+
+h1 {
+    text-align: center;
+    background-color: #2e5191;
+    color: #ebac51;
+    font-family: 'Courier New';
+    font-size: 100px;;
+}
+
+h2 {
+    color: white;
+    font-family: 'Courier New';
+}
+
+li {
+    color: white;
+    font-family: 'Courier New';
+}
+
+p {
+    color: white;
+}
+
+div {
+    text-align: center;
+}
+
+
+footer {
+    color: white;
+}
